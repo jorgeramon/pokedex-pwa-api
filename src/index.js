@@ -8,6 +8,7 @@ app.use(cors());
 
 const pokemonRouter = require("./routes/pokemon");
 app.use("/pokemons", pokemonRouter);
+app.use('/static', express.static('./static'));
 
 const https = require('https');
 const fs = require('fs');
