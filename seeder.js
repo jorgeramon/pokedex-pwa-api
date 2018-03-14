@@ -6,7 +6,7 @@ const jsonfile = require("jsonfile");
 const chalk = require("chalk");
 
 var seeders = [
-  { schema: require("./src/schemas/pokemon"), file: "seeds/pokemon.json", prod: true },
+  { schema: require("./src/schemas/pokemon"), file: "seeds/starters.json", prod: true },
 ]
 
 async.eachSeries(seeders, (seed, callback) => {
