@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "6bb937dc2f4cc8a95b7f0936",
+    "name": "Caterpie",
+    "type": "Bug",
+    "pokedexNumber": 10,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/010.png",
+    "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+  },
+  {
+    "_id": "6bb938a116d2c143beae69eb",
+    "name": "Metapod",
+    "type": "Bug",
+    "pokedexNumber": 11,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/011.png",
+    "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell."
+  },
+  {
+    "_id": "6bb98a592af9c8f7abf89d8e",
+    "name": "Butterfree",
+    "type": "Bug",
+    "pokedexNumber": 12,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/012.png",
+    "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest."
+  },
+  {
+    "_id": "6bb98aa964c7eb3ef228eec4",
+    "name": "Weedle",
+    "type": "Bug",
+    "pokedexNumber": 13,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/013.png",
+    "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose)."
+  },
+  {
+    "_id": "6bb98ad63faa283dbe7bcba3",
+    "name": "Kakuna",
+    "type": "Bug",
+    "pokedexNumber": 14,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/014.png",
+    "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+  },
+  {
+    "_id": "6bb98b0431a22282433cf271",
+    "name": "Beedrill",
+    "type": "Bug",
+    "pokedexNumber": 15,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/015.png",
+    "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm."
+  },
+  {
+    "_id": "6bb98b44d38ac1008a5fb951",
+    "name": "Pidgey",
+    "type": "Normal",
+    "pokedexNumber": 16,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/016.png",
+    "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings."
+  },
+  {
+    "_id": "6bb98ba64fe15b43e6c15fe7",
+    "name": "Pidgeotto",
+    "type": "Normal",
+    "pokedexNumber": 17,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/017.png",
+    "description": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+  },
+  {
+    "_id": "6bb98bf6f1f8d9e3c539afa6",
+    "name": "Pidgeot",
+    "type": "Normal",
+    "pokedexNumber": 18,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/018.png",
+    "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon."
+  },
+  {
+    "_id": "6bb98ba64fe15b43e6c15ff7",
+    "name": "Rattata",
+    "type": "Normal",
+    "pokedexNumber": 19,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/019.png",
+    "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere."
+  },
+  {
+    "_id": "6bb98bf6f1f8d9e3c539aff6",
+    "name": "Raticate",
+    "type": "Normal",
+    "pokedexNumber": 20,
+    "picture": "https://api.pwa.dsindigo.com:8080/static/pks/020.png",
+    "description": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses."
+  }
+]
